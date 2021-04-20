@@ -19,3 +19,4 @@ student and a passionate web developer.:computer:
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=siddhi-244&theme=dark)](https://github.com/siddhi-244/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi-244&layout=compact)](https://github.com/siddhi-244/github-readme-stats)
