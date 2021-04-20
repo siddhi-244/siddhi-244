@@ -17,5 +17,5 @@ student and a passionate web developer.:computer:
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=siddhi-244)](https://github.com/siddhi-244/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=siddhi-244&theme=dark)](https://github.com/siddhi-244/github-readme-stats)
 
