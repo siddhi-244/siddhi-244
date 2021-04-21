@@ -1,22 +1,25 @@
-### Hello folks :hand: 
+### Hi there 👋, Myself Siddhi Bhanushali.
+I am a Second year Btech Cse student and an web development addict.
 
-Myself Siddhi Bhanushali , I am a Second year BTech Cse 
-student and a passionate web developer.:computer:
+Skills: HTML , CSS , Bootstrap ,JS , Nodejs , python , c++(basic)
 
-<a href="https://www.linkedin.com/in/siddhi-bhanushali-4178591b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://pirogrammer1.blogspot.com" ><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
-
-
-
-<h2>Skills</h2>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+- 🌱 I’m currently learning Every damn thing🤣 
+- 💬 Ask me about How to Google stuff🤣 
+- ⚡ Fun fact: I know sarcasm🤣. 
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=siddhi-244&theme=dark)](https://github.com/siddhi-244/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Siddhi-244)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/siddhi-bhanushali-4178591b2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Siddhibhanushali1234/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://pirogrammer1.blogspot.com)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi-244&layout=compact)](https://github.com/siddhi-244/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Siddhi-244)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-244)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhi-244&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddhi-244)  
+
+![GitHub metrics](https://metrics.lecoq.io/Siddhi-244)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Siddhi-244)  
+
+![Profile views](https://gpvc.arturio.dev/Siddhi-244)  
