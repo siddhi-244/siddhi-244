@@ -2,7 +2,17 @@
 I am a Second year Btech Cse student and an web development addict.
 
 
-Skills: HTML , CSS , Bootstrap ,JS , Nodejs , python , c++(basic)
+<h2> Tools & Technologies</h1>
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=Sublime-text&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=Google-chrome&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Html5-informational?style=flat&logo=HTML5&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Style-CSS_3-informational?style=flat&logo=CSS3&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=6aa6f8)
+
+
 
 - 🌱 I’m currently learning Every damn thing🤣 
 - 💬 Ask me about How to Google stuff🤣 
