@@ -1,5 +1,5 @@
 ### Hi there 👋, Myself Siddhi Bhanushali.
-I am a Second year Btech Cse student and an web development addict.
+I am a Second year Btech Cse student, open source Contributor and an web development addict.
 
 
 - 🌱 I’m currently learning Every damn thing🤣 
