@@ -12,13 +12,13 @@ I am an open source Contributor and an web development addict.
 
 <h2 align="center">Reach out to me on </h2>
 
-<p align="center">
+<div align="center">
 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Siddhi-244) 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/siddhi-bhanushali-4178591b2/) 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Siddhibhanushali1234/) 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://pirogrammer1.blogspot.com)
-</p>
+</div>
 <h2 align="center"> 🔭 Technology Stack</h2>
 
 <p align="center">
