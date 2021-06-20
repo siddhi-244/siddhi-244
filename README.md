@@ -1,5 +1,11 @@
-### Hi there 👋, Myself Siddhi Bhanushali.
-I am a Second year Btech Cse student, open source Contributor and an web development addict.
+<h1 align="center"> Hi 👋, I'm Siddhi Bhanushali</h1>
+<p align="center">
+    <a href="https://github.com/siddhi-244"><img src="forkit.gif "/></a> 
+</p>
+<h2 align="center"> 👨‍💻 Who am I?</h2>
+<p align="center">
+  <samp>I am a Second year student at Smt Indira Gandhi clg of Engineering currently doing my Bachelorsin Computer Engineering. 
+I am an open source Contributor and an web development addict.
 
 
 - 🌱 I’m currently learning Every damn thing🤣 
