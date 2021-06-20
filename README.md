@@ -60,7 +60,7 @@ I am an open source Contributor and an web development addict.
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Siddhi-244)  
 </div>
     
-    <div align="center">
+<div align="center">
         
 ![Profile views](https://gpvc.arturio.dev/Siddhi-244)  
-        </div>
+ </div>
