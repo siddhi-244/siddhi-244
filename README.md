@@ -22,30 +22,45 @@ I am an open source Contributor and an web development addict.
 <h2 align="center"> 🔭 Technology Stack</h2>
 
 <p align="center">
-
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=Sublime-text&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=Google-chrome&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Html5-informational?style=flat&logo=HTML5&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Style-CSS_3-informational?style=flat&logo=CSS3&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=6aa6f8)
-</p>
-
-
-
-
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/html5%20-%2343853D.svg?&style=for-the-badge&logo=html5&logoColor=white"     />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/css3%20-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white " />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/javascript%20-%2343853D.svg?&style=for-the-badge&logo=javascript&logoColor=white " />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/python%20-%2342853D.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+ </p>
+ 
+ <h2 align="center">Trophies</h2>
+<div align="center">
+    
 [![trophy](https://github-profile-trophy.vercel.app/?username=Siddhi-244)](https://github.com/ryo-ma/github-profile-trophy)
-
+</div>
+<div align="center">
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-244)](https://github.com/anuraghazra/github-readme-stats)
-
+    </div> 
+    
+<div align="center">
+    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhi-244&show_icons=true)  
-
+<div>
+    
+ <div align="center">
+     
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddhi-244)  
-
-
+</div>
+    
+<div align="center">
+    
 ![GitHub metrics](https://metrics.lecoq.io/Siddhi-244)  
-
+</div>
+    
+<div align="center">
+    
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Siddhi-244)  
-
+</div>
+    
+    <div align="center">
+        
 ![Profile views](https://gpvc.arturio.dev/Siddhi-244)  
+        </div>
