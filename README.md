@@ -47,7 +47,8 @@ I am an open source Contributor and an web development addict.
     
  <div align="center">
      
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddhi-244)  
+     
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhi-244&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
     
 <div align="center">
