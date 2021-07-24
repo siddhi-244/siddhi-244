@@ -35,10 +35,7 @@ I am an open source Contributor and an web development addict.
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=Siddhi-244)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
-<div align="center">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-244)](https://github.com/anuraghazra/github-readme-stats)
-    </div> 
+
     
 <div align="center">
     
@@ -50,8 +47,11 @@ I am an open source Contributor and an web development addict.
      
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhi-244&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
-    
-    
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi-244&layout=compact&theme=react&count_private=false" />
+</div>
+
 <div align="center">
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Siddhi-244)  
@@ -61,3 +61,6 @@ I am an open source Contributor and an web development addict.
         
 ![Profile views](https://gpvc.arturio.dev/Siddhi-244)  
  </div>
+
+
+
