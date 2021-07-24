@@ -38,9 +38,8 @@ I am an open source Contributor and an web development addict.
 
     
 <div align="center">
-    
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhi-244&show_icons=true)  
-<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=siddhi-244&count_private=true&show_icons=true&theme=tokyonight" />
+</div>
     
  <div align="center">
      
