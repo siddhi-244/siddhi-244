@@ -51,10 +51,6 @@ I am an open source Contributor and an web development addict.
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhi-244&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
     
-<div align="center">
-    
-![GitHub metrics](https://metrics.lecoq.io/Siddhi-244)  
-</div>
     
 <div align="center">
     
