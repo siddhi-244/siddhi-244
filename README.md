@@ -4,7 +4,7 @@
 </p>
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp>I am a Second year student at Smt Indira Gandhi clg of Engineering currently doing my Bachelors in Computer Engineering. 
+  <samp>I am a Third year student at Smt Indira Gandhi clg of Engineering currently doing my Bachelors in Computer Engineering. 
 I am an open source Contributor and an web development addict.
 </samp><br>
 </p>
