@@ -30,7 +30,13 @@ I am an open source Contributor and an web development addict.
 <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/express%20-%2342853D.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mongodb%20-%2342853D.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
-    
+<img src="https://img.shields.io/badge/reactjs%20-%2343853D.svg?&style=for-the-badge&logo=react&logoColor=white " />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/c++%20-%2343853D.svg?&style=for-the-badge&logo=c++&logoColor=white " />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/npm%20-%2343853D.svg?&style=for-the-badge&logo=npm&logoColor=white " />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/bootstrap%20-%2343853D.svg?&style=for-the-badge&logo=bootstrap&logoColor=white " />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/jquery%20-%2343853D.svg?&style=for-the-badge&logo=jquery&logoColor=white " />&nbsp;&nbsp;
+
+
  </p>
  
  <h2 align="center">Trophies</h2>
