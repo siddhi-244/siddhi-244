@@ -40,12 +40,6 @@ I am an open source Contributor and an web development addict.
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=siddhi-244&count_private=true&show_icons=true&theme=tokyonight" />
 </div>
-    
- <div align="center">
-     
-     
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhi-244&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-</div>
  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi-244&layout=compact&theme=react&count_private=false" />
