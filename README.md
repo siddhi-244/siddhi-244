@@ -4,14 +4,25 @@
 </p>
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp>Hi there! I'm Siddhi Bhanushali, a motivated and dedicated Computer Engineering graduate with a passion for software development. I recently completed my Bachelor of Engineering with a stellar CGPA of 9.49 from Smt. Indira Gandhi College of Engineering. 
-
+  <samp>
+      Hi there! I'm Siddhi Bhanushali, a motivated and dedicated Computer Engineering graduate with a passion for software development. I recently completed my Bachelor of Engineering with a stellar CGPA of 9.49 from Smt. Indira Gandhi College of Engineering. </samp></p>
+<p align="center">
+    <samp>
 During my academic journey, I honed my programming skills in C++, JavaScript, Python, and PHP, and gained proficiency in various frameworks like Bootstrap, jQuery, ExpressJs, and Dropwizard. Additionally, I have experience working with databases such as SQL and Postgresql, and libraries like Animate.css and ReactJS.
-
+    </samp>
+</p>
+<p align="center">
+    <samp>
 I had the privilege of interning as a Software Engineering Intern at Tala, where I contributed to securing backend Cron job endpoints and optimized the RazorPay get transactions API for better performance. Moreover, I actively documented the repayment flow diagram for enhanced clarity.
-
+    </samp>
+</p>
+<p align="center">
+    <samp>
 In addition to my technical skills, I have shown leadership through various initiatives. As the Lead of Hack Club SIGCE, I established the first Hack Club at SIGCE, organized workshops, and fostered a culture of open source within the campus community.
-
+    </samp>
+</p>
+<p align="center">
+    <samp>
 In my spare time, I've been recognized for my achievements, winning Diversion2k22 and Diversion2k23, and being among the top mentors for OpenCode 2022 and Social Summer of Code’22. I'm also proud to be one of the top contributors in Letsgrowmore summer of code.
 </samp><br>
 </p>
