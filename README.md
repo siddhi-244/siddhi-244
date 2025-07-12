@@ -16,7 +16,6 @@
 🚀 Software Developer with experience in building scalable systems, powerful backend APIs, and intuitive Android apps.  
 📱 Developed a full-fledged custom Android browser using Jetpack Compose, Firefox Components, and native-JS integration.  
 🎯 Focused on performance, clean architecture, and low-latency UX.  
-🌎 Currently based in Mumbai, India — moving to Boston, MA for MSCS @ Northeastern University (Fall 2025).
 
 ---
 
