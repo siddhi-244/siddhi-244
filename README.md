@@ -70,9 +70,6 @@ GitHub user tracker built with Vanilla JS and GitHub API to visualize user data.
 
 ### 🎓 Education
 
-**🎓 Northeastern University (2025–2027)**  
-Master of Science in Computer Science
-
 **🎓 University of Mumbai (2019–2023)**  
 Bachelor of Engineering – Computer Engineering  
 📈 Final CGPA: **9.49/10** | 🥉 Ranked 3rd in department
